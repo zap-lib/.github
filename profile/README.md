@@ -8,4 +8,4 @@ The data sources available on mobile devices are valuable, but are often device-
 
 The main goal of Zap is to support mobile-PC communication, but it also extends its capabilities to enable mobile-mobile and PC-PC communication. Furthermore, it's not limited to PCs; any devices capable of running Zap implementations(e.g., Kiosk device, Smart TV, etc.) can also participate in this communication.
 
-**Read the documentation for more information if you are interested: https://zap-lib.github.io/**
+Read the documentation for more information if you are interested: [zap-lib.github.io](https://zap-lib.github.io/)
